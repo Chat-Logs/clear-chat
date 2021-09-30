@@ -1,0 +1,34 @@
+{
+  "name": "clear-chat",
+  "version": "1.0.8",
+  "description": "A clear chat history online saver for discord bots to save cleared messages online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clear chat",
+    "chat clear",
+    "clear chat history",
+    "cleared chat messages history",
+    "cleared messages",
+	"discord clear",
+	"discord chat",
+	"discord chat save",
+	"discord save",
+	"discord history",
+	"discord chat history",
+	"discord",
+	"discord bots",
+	"bot",
+	"discord bot",
+	"clear chat"
+  ],
+  "author": "TARIQ",
+  "license": "MIT",
+  "homepage": "https://clearchat.xyz",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.1"
+  }
+}
