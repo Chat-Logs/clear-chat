@@ -1,6 +1,6 @@
 {
   "name": "clear-chat",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A clear chat history online saver for discord bots to save cleared messages online",
   "main": "index.js",
   "scripts": {
