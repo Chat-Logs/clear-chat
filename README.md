@@ -75,4 +75,4 @@ client.login("TOKEN")
 
 ## Contributing
 
-© Clear Chat History, 2021 | TARIQ (contact@itariq.dev)
+© Clear Chat History, 2021 - 2022 | TARIQ (contact@itariq.dev)
