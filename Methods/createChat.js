@@ -3,7 +3,7 @@ require('colors');
 
 module.exports = async function(arg){
 	if(!arg || !Array.isArray(arg) || !arg.length) throw Error ("clear-chat: createChat() function first argument must be an array of cleared messages contains atleast 1 message".brightYellow);
-	let data = await fetch("https://clearchat.xyz/api/clear", {
+	let data = await fetch("https://logs.chat/api/clear", {
 		method: "POST",
 		body: JSON.stringify({"messages": arg}),
 		headers: {

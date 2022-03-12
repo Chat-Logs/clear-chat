@@ -12,12 +12,12 @@
 
 <center>
 	<img style="border-radius: 7px;" alt="Example Picture" src="https://cdn.discordapp.com/attachments/765407817191522325/816582265979011112/unknown.png">
-	<a href="https://clearchat.xyz/chat/1" target="_blank">
+	<a href="https://logs.chat/chat/1" target="_blank">
 		<img style="border-radius: 7px;" alt="Example Picture" src="https://cdn.discordapp.com/attachments/817001110589669426/817302090242195497/unknown.png">
 	</a>
 </center>
 
-Check out or website [Clear Chat History](https://clearchat.xyz).
+Check out or website [Clear Chat History](https://logs.chat).
 
 # Installation from [NPM](https://www.npmjs.com/package/clear-chat)
 
@@ -32,7 +32,7 @@ Check out or website [Clear Chat History](https://clearchat.xyz).
 it will return an object looks like this:
 ```
 {
-	"url": "https://clearchat.xyz/chat/1",
+	"url": "https://logs.chat/chat/1",
 	"code": "1"
 }
 ```
