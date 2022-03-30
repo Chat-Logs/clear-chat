@@ -1,6 +1,6 @@
 {
   "name": "clear-chat",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "A clear chat history online saver for discord bots to save cleared messages online",
   "main": "index.js",
   "scripts": {
@@ -26,9 +26,6 @@
   ],
   "author": "TARIQ",
   "license": "MIT",
-  "homepage": "https://clearchat.xyz",
-  "dependencies": {
-    "colors": "^1.4.0",
-    "node-fetch": "^2.6.1"
-  }
+  "homepage": "https://logs.chat",
+  "dependencies": {}
 }
